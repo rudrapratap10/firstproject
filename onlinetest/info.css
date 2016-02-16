@@ -1,0 +1,104 @@
+#info
+{
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+	background-color: #ccffff;
+}
+.form
+{
+     padding-left: 70px;
+}
+
+.emp_submit
+{
+	padding-right: 65px;
+}
+	
+#office_user
+{
+    border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+	
+}
+.office_user
+{
+	padding-left: 70px;
+}
+.office_submit
+{
+	padding-right: 75px;
+}
+#candidate
+{
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+	
+}
+#candidate1
+{
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+	
+}
+
+#job_code
+{
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+}
+.job_code
+{
+	padding-left: 70px;
+}
+.code_submit
+{
+	padding-right: 65px;
+}
+#paper_subject
+{
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+}
+.paper_subject
+{
+	padding-left: 70px;
+}
+.sub_submit
+{
+	padding-right: 65px;
+}
+#question_mast
+{
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+}
+#job_code_paper
+{
+
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+}
+.job_code_paper
+{
+	padding-left: 70px;
+}
+#candidate_job_info
+{
+	
+	border : 2px solid darkblue;
+	width:500px;
+	padding-bottom: 10px;
+	background-color: #ccffff;
+}
+.candidate_job_info
+{
+	padding-left: 70px;
+}
